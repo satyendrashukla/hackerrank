@@ -1,1 +1,2 @@
-# hackerrank
+# HackerRank
+HackerRank exercises
